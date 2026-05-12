@@ -234,7 +234,7 @@ Most common payment methods:
 
 ![Dashboard 2](Clothes2.png)
 
-![Dashboard 2](clothes with filter.png)
+![Dashboard 2](c:\Users\Mohamed\Documents\Clothes Analysis Freelance\clothes with filter.png)
 
 
 ---
